@@ -1,0 +1,5 @@
+{
+  "name": "NiftyAI Predict - NSE Intelligent Dashboard",
+  "description": "A high-performance stock prediction and dashboard application for the Indian National Stock Exchange, leveraging Gemini AI for sentiment analysis and trend prediction with real-time simulated WebSocket data.",
+  "requestFramePermissions": []
+}
